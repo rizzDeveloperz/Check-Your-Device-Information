@@ -1,2 +1,13 @@
 # Check-Your-Device-Information
-A Python tool to gather and manage device info. Features include checking device details, battery status, storage, CPU, memory, installed packages, running services, and more. You can also take screenshots, record the screen, reboot, change language, reset the device, and check root status.
+A Python-based tool to access detailed information about your device and manage various system settings. With a user-friendly menu, you can easily choose different options to gather essential data or perform system tasks. Features include retrieving device details, battery status, storage, CPU, memory, and more. Additionally, you can control various system functionalities like taking screenshots, recording the screen, rebooting the device, and even performing a factory reset.
+
+Key Features:
+
+- Get detailed device information
+- View battery and storage status
+- Monitor CPU and memory usage
+- List installed packages and running services
+- Take screenshots and record screen
+- Reboot device and check root status
+- Change language, reset & root the device, and more
+- Perfect for users and developers looking to manage and inspect their devices with ease!
