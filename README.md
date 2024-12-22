@@ -11,3 +11,11 @@ Key Features:
 - Reboot device and check root status
 - Change language, reset & root the device, and more
 - Perfect for users and developers looking to manage and inspect their devices with ease!
+
+How to Run:
+-  Run CMD
+-  Type in CMD: python device_check_information.py
+-  Choose number 1 - 16
+
+# Disclaimer
+You must first install python at https://www.python.org/download (official python website)
